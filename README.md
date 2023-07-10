@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://pooyasp2.ir/templates/Qr-code/)
+- Live Site URL: [pooyasp2.ir/templates/Qr-code](https://pooyasp2.ir/templates/Qr-code/)
 
 ### Built with
 
